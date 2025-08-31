@@ -22,10 +22,6 @@ The system uses a **StateGraph** with five specialized agents:
 4. **ToolExecutingAgent** - Executes the chosen tools
 5. **GenerationAgent** - Generates natural language responses
 
-### Data Flow
-```
-User Input → Supervisor → Intent Detection → Tool Selection → Parameter Extraction → Tool Execution → Response Generation
-```
 
 ## 📋 Prerequisites
 
